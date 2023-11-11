@@ -1,0 +1,6 @@
+D:\MyProject\MaxApp\MaxApp\x64\Debug\MaxApp.vcxproj.AssemblyReference.cache
+D:\MyProject\MaxApp\MaxApp\x64\Debug\MaxApp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\MaxApp\MaxApp\x64\Debug\MaxApp.vcxproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\MaxApp\MaxApp\x64\Debug\MaxApp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ilya\Downloads\MaxApp\MaxApp\x64\Debug\MaxApp.vcxproj.AssemblyReference.cache
+C:\Users\Ilya\Downloads\MaxApp\MaxApp\x64\Debug\MaxApp.vcxproj.SuggestedBindingRedirects.cache
